@@ -34,10 +34,11 @@ logo_text = "Private Payments"
 author = "Private Payments"
 
 # Alternate text instead of the theme attribution
-# meta = "META (TODO)"
+meta = "<a href=\"/contact\">Contact Us</a>"
 
 menu_items = [
     {name = "overview", url = "$BASE_URL"},
     {name = "use cases", url = "$BASE_URL/use-cases"},
-    {name = "integration guide", url = "$BASE_URL/integration-guide"}
+    {name = "integration guide", url = "$BASE_URL/integration-guide"},
+    {name = "contact", url = "$BASE_URL/contact"}
 ]
