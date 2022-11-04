@@ -1,5 +1,7 @@
 {% extends "terminimal/templates/index.html" %}
 
+{%- block title %}{{ section.title }}{% endblock title -%}
+
 {% block content %}
 {% set section = get_section(path="_index.md") %}
     <div class="post">
