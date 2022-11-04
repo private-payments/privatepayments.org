@@ -1,5 +1,6 @@
 +++
 title = "Private Payments"
+description = "Stealth addresses for Bitcoin"
 template = "home.html"
 paginate_by = 1
 +++

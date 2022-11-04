@@ -1,5 +1,6 @@
 +++
 title = "Use Cases"
+description = "Private Payments real-world use cases"
 +++
 
 As a rule of thumb, Private Payments fits any scenario where an XPUB might otherwise be shared or where sharing a static address creates a privacy risk.

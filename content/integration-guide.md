@@ -1,5 +1,6 @@
 +++
 title = "Integration Guide"
+description = "Integrating Private Payments into wallet software"
 +++
 
 See the Rust [reference implementation](https://github.com/private-payments/rust-private-payments).
