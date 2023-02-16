@@ -16,3 +16,7 @@ An employer may decide to enroll an employee's payment code into their payroll s
 ## Honor System Stand
 
 The small-scale merchant who leaves goods for sale at an honor system stand could benefit from an alternative to posting a static Bitcoin address or running a server. A Private Payments code allows each customer to pay to a chain of unique addresses, thus enhancing privacy for the business.
+
+## Dollar Cost Averaging
+
+Some exchanges offer the ability for customers to automate dollar cost averaging, including withdrawing bitcoin. Private payment addresses would allow automated withdrawals to a different address each time, without the exchange needing access to their user’s XPUB. 
